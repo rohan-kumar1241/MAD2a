@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">English To French</string>
+    <string-array name="choice_array">
+        <item>Hello</item>
+        <item>Goodbye</item>
+        <item>Good Evening</item>
+        <item>Good Night</item>
+        <item>Please</item>
+        <item>Thank you</item>
+        <item>Sorry</item>
+        <item>It\'s okay</item>
+        <item>It\'s good</item>
+        <item>We</item>
+        <item>You</item>
+        <item>Mr.</item>
+        <item>Miss</item>
+        <item>Red</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Bread</item>
+        <item>Wine</item>
+        <item>Chicken</item>
+        <item>Rice</item>
+    </string-array>
+</resources>
